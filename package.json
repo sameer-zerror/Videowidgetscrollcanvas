@@ -11,7 +11,11 @@
   "dependencies": {
     "react": "19.1.0",
     "react-dom": "19.1.0",
-    "next": "15.5.0"
+    "next": "15.5.0",
+    "react-icons": "^5.5.0",
+    "react-bootstrap": "^2.10.10",
+    "gsap": "^3.13.0",
+    "bootstrap": "^5.3.7"
   },
   "devDependencies": {
     "eslint": "^9",
