@@ -96,12 +96,12 @@ const Article = () => {
                     <div className="col-md-12">
                       <div className="contentSec">
                         <h1 className="heading">
-                          The Mercedes-Benz E-Class: First Among Cars And A
-                          Benchmark In Luxury
+                          A tool watch in step with the times.
                         </h1>
                         <p className="subheading">
-                          For Esquire India’s Auto Issue, we look at what
-                          defines aspiration on Indian roads today{" "}
+                          "For Esquire India’s Style Issue, we explore how Rolex
+                          continues to redefine timeless luxury and ambition on
+                          the wrists of modern icons."
                         </p>
                         <div className="authorSec">
                           <span className="author">
@@ -123,22 +123,22 @@ const Article = () => {
                       <div className="content">
                         <p style={{ textAlign: "left" }}>
                           <span>
-                            COCOONED IN THE COMFORT OF THE BACK SEAT of the{" "}
+                            In the 1950s, the exploration of the underwater
+                            world was no longer limited to scientists and the
+                            military. The Submariner was launched at a time when
+                            diving was becoming increasingly popular. The
+                            public’s fascination with ocean exploration led to
+                            the establishment of the first diving schools.
                           </span>
-                          <a
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            href="https://www.esquireindia.co.in/tag/mercedes"
-                          >
-                            <span>Mercedes</span>
+                          <a target="_blank" rel="noopener noreferrer" href="#">
+                            <span> Rolex </span>
                           </a>
                           <span>
-                            -Benz E-Class, wafting smoothly towards the airport,
-                            I find myself enveloped by the warm glow of the
-                            ambient lighting, immersed in the sheer indulgence
-                            that surrounds me. It’s in moments like these—quiet,
-                            uninterrupted—that one truly absorbs the brilliance
-                            of this machine.{" "}
+                            Waterproof, robust, technical and perfectly legible,
+                            the Submariner was designed with this new-found
+                            popularity in mind. It became the tool watch of
+                            choice for divers, giving them the confidence to
+                            venture into the depths.
                           </span>
                         </p>
                         <p style={{ textAlign: "left" }} />
@@ -175,7 +175,7 @@ const Article = () => {
                                   width: "100%",
                                   height: "auto",
                                 }}
-                                src="https://cdn.esquireindia.co.in/editor-images/2025-07-18T07%3A06%3A33.290Z-Inline1.jpg"
+                                src="https://media.rolex.com/image/upload/q_auto:eco/f_auto/c_limit,w_640/v1727080626/rolexcom/collection/family-pages/professional-watches/submariner/family-page/2024/roller/professional-watches-submariner-underwater-roller_240904_rolex_submariner_d3_373724"
                               />
                               <div className="photoBy">
                                 <span className="caption" />
@@ -186,46 +186,52 @@ const Article = () => {
                         </div>
                         <p style={{ textAlign: "left" }}>
                           <span>
-                            Among all the models in the Mercedes-Benz lineup,
-                            the E-Class holds a special place in this narrative.
-                            It’s not just a car—it’s a milestone. Over the last
-                            30 years, more than 60,000 units of the E-Class have
-                            found homes across the country. While that number
-                            might not sound massive in broader automotive terms,
-                            it is quite extraordinary for a luxury model in a
-                            market that’s only recently embraced premium
-                            mobility at scale.{" "}
+                            At its launch in 1953, the Rolex Submariner was the
+                            first divers’ wristwatch to be waterproof to 100
+                            metres (330 feet). This depth was increased to 200
+                            metres (660 feet) the following year, then to 300
+                            metres (1,000 feet) in 1989. As for the Submariner
+                            Date, it was guaranteed waterproof to 200 metres
+                            (660 feet) at its launch in 1969, and to 300 metres
+                            (1,000 feet) from 1979 onwards. These successive
+                            improvements bear witness to Rolex’s unwavering
+                            efforts to push back the limits of waterproofness –
+                            a quest that began with the development of the
+                            Oyster case in the 1920s
                           </span>
                         </p>
                         <p style={{ textAlign: "left" }} />
                         <p style={{ textAlign: "left" }}>
                           <span>
-                            The E-Class has consistently been Mercedes-Benz
-                            India’s best-seller and its success only surged
-                            further when the long wheelbase (LWB) variant was
-                            introduced in 2017—a configuration developed
-                            specifically for markets like India and China, where
-                            back-seat comfort reigns supreme. With this, the
-                            E-Class redefined luxury travel for the
-                            chauffeur-driven elite and widened its appeal to
-                            entrepreneurs and families alike. Now, in its latest
-                            avatar unveiled in October 2024, the E-Class raises
-                            the bar yet again.{" "}
+                            Several of the technical features and design aspects
+                            of the Submariner models were taken into
+                            consideration in 1981 when the international
+                            standard for divers’ watches was established. The
+                            Submariner marked the beginning of the great
+                            adventure that would see the emergence of our entire
+                            family of watches designed for deep-sea diving: the
+                            Sea-Dweller (1967), the Rolex Deepsea (2008) and the
+                            Deepsea Challenge (2022).
                           </span>
                         </p>
                         <p style={{ textAlign: "left" }} />
                         <p style={{ textAlign: "left" }}>
                           <span>
-                            The newest generation is larger, smarter and more
-                            luxurious than ever. The highlight variant, the E
-                            450 4MATIC, combines power and panache. Its
-                            3.0-litre inline-six turbocharged petrol engine with
-                            mild-hybrid tech delivers a punchy 381 hp and 500 Nm
-                            of torque, ensuring that those who enjoy being
-                            behind the wheel aren’t left wanting.{" "}
+                            The original design and functions of the Submariner
+                            were entirely dictated by the practical needs of
+                            divers. The numerous material developments it has
+                            undergone over the years have further improved its
+                            efficiency. Today, extremely durable Oystersteel,
+                            virtually scratchproof high-technology ceramic and
+                            an improved luminescent substance are just some of
+                            the innovations that keep the Submariner and
+                            Submariner Date in step with the times. While these
+                            watches remain essential tools for survival
+                            underwater, they have also become archetypes of the
+                            tool watch.
                           </span>
                         </p>
-                         <div className="canvasContainer">
+                        <div className="canvasContainer">
                           <div className="canvasContainerInner">
                             <Canvass />
                           </div>
@@ -249,7 +255,7 @@ const Article = () => {
                                 <a
                                   className="related-post-card"
                                   target="_blank"
-                                  href="/tech-and-auto/cars-and-bikes/lamborghini-temerario-gt3-review"
+                                  href="#"
                                 >
                                   <div className="related-post-image">
                                     <img
@@ -258,7 +264,7 @@ const Article = () => {
                                       decoding="async"
                                       data-nimg="fill"
                                       className="imgcover"
-                                      src="https://cdn.esquireindia.co.in/article/2025-07-11T08%3A53%3A24.450Z-Lead_09_TUNNEL_PROSP_FRONT_3-lead-vertical.jpg"
+                                      src="https://media.rolex.com/image/upload/q_auto:eco/f_auto/c_limit,w_1200/v1708387890/rolexcom/about-rolex/behind-the-crown/mastering-waterproofness/about-rolex-mastering-waterproofness-deepsea-special-1960-2"
                                       style={{
                                         position: "absolute",
                                         height: "100%",
@@ -270,10 +276,9 @@ const Article = () => {
                                     />
                                   </div>
                                   <div className="related-post-card-content">
-                                    <strong>Cars &amp; Bikes</strong>
+                                    <strong>Watch</strong>
                                     <h3 className="card-title mb-0">
-                                      Lamborghini Temerario GT3 Is Lighter,
-                                      Faster And Destined For Racing
+                                      The watch for the sea dwellers
                                     </h3>
                                     <span className="author">
                                       {" "}
@@ -293,7 +298,7 @@ const Article = () => {
                                       decoding="async"
                                       data-nimg="fill"
                                       className="imgcover"
-                                      src="https://cdn.esquireindia.co.in/article/2025-04-13T09%3A06%3A46.689Z-Lead%20%2829%29.jpg"
+                                      src="https://media.rolex.com/image/upload/q_auto:eco/f_auto/c_limit,w_1920/v1708389168/rolexcom/about-rolex/behind-the-crown/mastering-waterproofness/about-rolex-mastering-waterproofness-e-1967-premiere-sea-dweller-1665-004"
                                       style={{
                                         position: "absolute",
                                         height: "100%",
@@ -305,9 +310,9 @@ const Article = () => {
                                     />
                                   </div>
                                   <div className="related-post-card-content">
-                                    <strong>Cars &amp; Bikes</strong>
+                                    <strong>Watch</strong>
                                     <h3 className="card-title mb-0">
-                                      6 Endurance Bikes To Lookout For In 2025
+                                      The watch for the sea dwellers
                                     </h3>
                                     <span className="author">
                                       {" "}
@@ -321,30 +326,33 @@ const Article = () => {
                         </div>
                         <p style={{ textAlign: "left" }}>
                           <span>
-                            It whips you to 100 in just 4.5 seconds. Paired with
-                            Mercedes’ 9G-TRONIC automatic transmission and
-                            4MATIC all-wheel drive, it offers a buttery smooth,
-                            refined but punchy drive. But of course, the back
-                            seat is where the E-Class LWB truly dazzles. The
-                            rear cabin is nothing short of a sanctuary. In the
-                            new generation, the seats recline up to 36 degrees,
-                            include extendable thigh support and come with “boss
-                            mode,” allowing the rear passenger to push the front
-                            seat forward with the touch of a button, fully
-                            stretching out in ultimate relaxation.{" "}
+                            The Submariner and Submariner Date have established
+                            themselves as the watches of choice for those who,
+                            like Oscar-winning explorer and filmmaker James
+                            Cameron, have made the underwater world their
+                            favourite playground. They are the loyal companions
+                            of individuals who dedicate their lives to
+                            preserving the oceans, the blue heart of our planet.
+                            The technical performance and unique aesthetics of
+                            these watches have enabled them to conquer other
+                            territories, far beyond the realm of diving.
                           </span>
                         </p>
                         <p style={{ textAlign: "left" }} />
                         <p style={{ textAlign: "left" }}>
                           <span>
-                            Despite the rise of SUVs, the E-Class continues to
-                            embody timeless elegance. Its stately design,
-                            complete with a chrome-heavy grille, sleek LED DRLs
-                            and a flowing silhouette, commands attention
-                            wherever it goes. Arriving in an E-Class still
-                            elicits a head-turn, a held-open door and an almost
-                            ceremonial welcome from onlookers who’ve long dreamt
-                            of being in your seat.
+                            Hans Wilsdorf, who began his career in 1900 working
+                            for a watch company in La Chaux-de-Fonds, observed
+                            how lifestyles were changing and particularly the
+                            rise in popularity of sports and outdoor pursuits.
+                            The man who was to found Rolex a few years later
+                            realized that pocket watches, which had to be
+                            protected within the folds of clothing, were not
+                            suited to these new kinds of use. An enterprising
+                            man of vision, he decided he would create watches to
+                            be worn on the wrist that their owners could count
+                            on for reliability and accuracy in their modern,
+                            active lives.
                           </span>
                         </p>
                         <div>
@@ -360,13 +368,14 @@ const Article = () => {
                         <p style={{ textAlign: "left" }} />
                         <p style={{ textAlign: "left" }}>
                           <span>
-                            As I lean back, fully reclined and insulated from
-                            the chaos outside, I’m reminded again why this car
-                            has endured. Few vehicles can blend tradition,
-                            innovation, and indulgence so effortlessly. The
-                            Mercedes-Benz E-Class isn’t just transportation.
-                            It’s an experience, a status symbol, and for many, a
-                            coveted car.
+                            The perfectly hermetic Oyster case is emblematic of
+                            Rolex watches. Patented in 1926, it is composed of a
+                            bezel, case back and winding crown that screw down
+                            against the middle case. These components have
+                            undergone changes over time to further reinforce the
+                            watch’s waterproofness and to meet the needs of
+                            divers as diving materials and techniques developed,
+                            allowing them to descend to ever greater depths.
                           </span>
                         </p>
                         <div>
@@ -393,21 +402,17 @@ const Article = () => {
                                   width: "100%",
                                   height: "auto",
                                 }}
-                                src="https://cdn.esquireindia.co.in/editor-images/2025-07-18T07%3A08%3A38.725Z-1Ferrari%20296%20GTB%20%C3%AF%C2%80%C2%A2%20GTS.jpg"
+                                src="https://media.rolex.com/image/upload/q_auto:eco/f_auto/c_limit,w_1920/v1708404629/rolexcom/about-rolex/behind-the-crown/mastering-waterproofness/about-rolex-mastering-waterproofness-1953-first-submariner"
                               />
                               <div className="photoBy">
                                 <span className="caption">
-                                  Ferrari 296 GTB / GTS{" "}
+                                  The Oyster case, a revolutionary design
                                 </span>
                                 <span className="courtesy" />
                               </div>
                             </div>
                           </div>
                         </div>
-                       
-                        
-                       
-                       
                       </div>
                     </div>
                   </div>

@@ -25,7 +25,7 @@ const Hero = ({
                   <div
                     className={`${style.hoverDiv} ${style.template1CustomHeight}`}
                   >
-                    <img src="https://cdn.esquireindia.co.in/article/2025-07-18T07%3A06%3A57.332Z-LEAD.jpg" alt="" />
+                    <img src="https://media.rolex.com/image/upload/q_auto:eco/f_auto/c_limit,w_1920/v1727080618/rolexcom/collection/family-pages/professional-watches/submariner/family-page/2024/professional-watches-submariner-benchmark-10080_sv_rsa_submarinerdate_41_m126619lb_0003_assets_jan_mars_beautyshot_cover_lunette_unidirectionnelle" alt="" />
                     {/* <Image
                       src={heroImg ?? ""}
                       fill
@@ -50,7 +50,7 @@ const Hero = ({
                   {hasHtmlTags(courtesy) ? htmlParser(courtesy) : courtesy}
                 </span>
               )} */}
-              <span className={style.courtesy}>Mercedes-Benz E-Class</span>
+              <span className={style.courtesy}>Rolex watch</span>
             </div>
             {/* <StaticAds
               adUnits={[
@@ -94,7 +94,7 @@ const Hero = ({
               <li className={style.breadcrumItem}>
                 <Link href={""} style={{ textDecoration: "underline" }}>
                 <span>
-                  Cars & Bikes</span></Link>
+                  Watches</span></Link>
               </li>
             </ol>
           </div>

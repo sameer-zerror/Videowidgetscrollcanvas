@@ -295,7 +295,7 @@ const Footer = () => {
                     <div className="vr md-view"></div>
                     <div className="ft-end-logo md-view">
                       <img
-                        src="https://dev.esquireindia.co.in/rpsg-media-logo.png"
+                        src="https://www.esquireindia.co.in/rpsg-media-logo.png"
                         alt="RPSG Media"
                         fill
                       />
@@ -312,7 +312,7 @@ const Footer = () => {
                 </div>
                 <div className="vr nmd-view"></div>
                 <div className="ft-end-logo nmd-view">
-                  <img src="https://dev.esquireindia.co.in/rpsg-media-logo.png" alt="RPSG Media" fill />
+                  <img src="https://www.esquireindia.co.in/rpsg-media-logo.png" alt="RPSG Media" fill />
                 </div>
               </div>
             </div>

@@ -127,6 +127,14 @@ body {
   margin-right: calc(-0.5 * var(--bs-gutter-x));
   margin-left: calc(-0.5 * var(--bs-gutter-x));
 }
+.align-items-center {
+    align-items: center !important;
+}
+
+.d-flex {
+    display: flex !important
+;
+}
 @media (min-width: 768px) {
   .col-md-3 {
     flex: 0 0 auto;
